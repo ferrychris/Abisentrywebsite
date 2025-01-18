@@ -20,14 +20,14 @@ export default function Navbar(){
                 About
               </Link>
               <Link to ="#courses" className="text-gray-500 hover:text-gray-900">
-                Services
+                Courses
               </Link>
               <Link to ="#contactus" className="text-gray-500 hover:text-gray-900">
                 Contact Us
              </Link>
             </div>
             <button className="bg-blue-600 text-white px-6 py-2 rounded-lg hover:bg-blue-700 transition-colors">
-              Register
+              Register for a Course!
             </button>
           </div>
         </div>
