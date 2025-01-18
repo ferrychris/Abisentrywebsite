@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply antialiased;
+  }
+}
+
+@layer components {
+  .bg-coral-500 {
+    background-color: #FF7F50;
+  }
+  
+  .bg-coral-600 {
+    background-color: #FF6347;
+  }
+}
