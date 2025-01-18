@@ -17,7 +17,9 @@ export default function Hero() {
               security Training
             </h1>
             <p className="mt-6 text-lg text-gray-600">
-              Reliable Solutions for Every security issue
+              Unlock the power of cybersecurity with our cutting-edge AI-driven
+              training solutions. Gain expert knowledge, master the latest
+              cybersecurity techniques, and safeguard your digital assets from
             </p>
             <div className="mt-8 flex space-x-4">
               <button className="bg-coral-500 text-white px-8 py-3 rounded-lg hover:bg-coral-600 transition-colors flex items-center group">
