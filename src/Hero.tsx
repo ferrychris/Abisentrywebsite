@@ -1,4 +1,5 @@
 import { ChevronRight } from "lucide-react";
+import Cyberimg from './images/Cyberillus.jpg'
 
 
 export default function Hero() {
@@ -13,7 +14,7 @@ export default function Hero() {
               <br />
               <span className="text-blue-600">AI-driven</span> Cyber
               <br />
-              security
+              security Training
             </h1>
             <p className="mt-6 text-lg text-gray-600">
               Reliable Solutions for Every security issue
@@ -27,7 +28,7 @@ export default function Hero() {
           </div>
           <div className="relative">
             <img
-              src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&q=80"
+              src={Cyberimg}
               alt="Cybersecurity Illustration"
               className="rounded-2xl shadow-2xl"
             />
