@@ -23,7 +23,7 @@ export default function Hero() {
             </p>
             <div className="mt-8 flex space-x-4">
               <button className="bg-coral-500 text-white px-8 py-3 rounded-lg hover:bg-coral-600 transition-colors flex items-center group">
-                START
+                Get Started
                 <ChevronRight className="ml-2 group-hover:translate-x-1 transition-transform" />
               </button>
             </div>
