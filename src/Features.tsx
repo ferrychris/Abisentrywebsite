@@ -18,11 +18,11 @@ export default function Hero() {
                 <Brain className="h-6 w-6 text-blue-600" />
               </div>
               <h3 className="mt-4 text-xl font-semibold text-gray-900">
-                AI-Powered Learning
+                Hands on Training
               </h3>
               <p className="mt-2 text-gray-600">
-                Personalized learning paths adapted to your skill level and
-                goals
+                Learn directly from industry experts 
+                and gain practical experience with real-world scenarios
               </p>
             </div>
 
@@ -31,11 +31,10 @@ export default function Hero() {
                 <Lock className="h-6 w-6 text-blue-600" />
               </div>
               <h3 className="mt-4 text-xl font-semibold text-gray-900">
-                Practical Labs
+                Ethical and Sustainable Practices
               </h3>
               <p className="mt-2 text-gray-600">
-                Hands-on experience in real-world cybersecurity scenarios
-              </p>
+Explore cybersecurity solutions that aligns with environmental sustainability and ethical standards              </p>
             </div>
 
             <div className="p-6 bg-white rounded-xl shadow-sm border border-gray-100 hover:shadow-md transition-shadow">
@@ -43,11 +42,10 @@ export default function Hero() {
                 <Shield className="h-6 w-6 text-blue-600" />
               </div>
               <h3 className="mt-4 text-xl font-semibold text-gray-900">
-                Expert Guidance
+                Ai Driven Insights
               </h3>
               <p className="mt-2 text-gray-600">
-                Learn from industry professionals and certified instructors
-              </p>
+Harness the power of cutting-edge Ai to solve modern cybersecurity challenges              </p>
             </div>
           </div>
         </div>

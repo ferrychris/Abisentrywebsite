@@ -7,28 +7,26 @@ export default function Navbar(){
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between h-16 items-center">
             <div className="flex items-center">
-              <Shield className="h-8 w-8 text-blue-600" />
-              <span className="ml-2 text-xl font-bold text-gray-900">
+<img src="https://www.abisentrytechnologies.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fabisentry.1e2e2452.webp&w=64&q=75"/>              <span className="ml-2 text-xl font-bold text-gray-900">
                ABISENTRY  
               </span>
             </div>
             <div className="hidden md:flex items-center space-x-8">
-              <Link to ="#home" className="text-blue-600 font-medium">
+              <Link to ="/" className="text-blue-600 font-medium">
                 Home
               </Link>
-              <Link to ="#about" className="text-gray-500 hover:text-gray-900">
-                About
+              <Link to ="features" className="text-gray-500 hover:text-gray-900">
+                Features
               </Link>
-              <Link to ="#courses" className="text-gray-500 hover:text-gray-900">
-                Services
+              <Link to ="courses" className="text-gray-500 hover:text-gray-900">
+                Courses
               </Link>
-              <Link to ="#contactus" className="text-gray-500 hover:text-gray-900">
+              <Link to ="contactus" className="text-gray-500 hover:text-gray-900">
                 Contact Us
              </Link>
             </div>
-            <button className="bg-blue-600 text-white px-6 py-2 rounded-lg hover:bg-blue-700 transition-colors">
-              Register
-            </button>
+            <Link to ="https://airtable.com/app0I12eC9BZg1HRc/pagYKUXZS42GJzqDE/form" className=" bg-blue-600 text-white px-6 py-2 rounded-lg hover:bg-blue-700 transition-colors">Register</Link>
+            
           </div>
         </div>
       </nav>
