@@ -18,15 +18,16 @@ export default function Navbar(){
               <Link to ="features" className="text-gray-500 hover:text-gray-900">
                 Features
               </Link>
-              <Link to ="courses" className="text-gray-500 hover:text-gray-900">
-                Courses
+              <Link to ="#courses" className="text-gray-500 hover:text-gray-900">
+                Services
               </Link>
               <Link to ="contactus" className="text-gray-500 hover:text-gray-900">
                 Contact Us
              </Link>
             </div>
-            <Link to ="https://airtable.com/app0I12eC9BZg1HRc/pagYKUXZS42GJzqDE/form" className=" bg-blue-600 text-white px-6 py-2 rounded-lg hover:bg-blue-700 transition-colors">Register for a Course</Link>
-            
+            <button className="bg-blue-600 text-white px-6 py-2 rounded-lg hover:bg-blue-700 transition-colors">
+              Register
+            </button>
           </div>
         </div>
       </nav>
