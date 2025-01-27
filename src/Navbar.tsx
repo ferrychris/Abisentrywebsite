@@ -25,9 +25,9 @@ export default function Navbar(){
                 Contact Us
              </Link>
             </div>
-            <button className="bg-blue-600 text-white px-6 py-2 rounded-lg hover:bg-blue-700 transition-colors">
+         < a href="https://airtable.com/app0I12eC9BZg1HRc/pagYKUXZS42GJzqDE/form"> <button className="bg-blue-600 text-white px-6 py-2 rounded-lg hover:bg-blue-700 transition-colors">
               Register
-            </button>
+            </button></a> 
           </div>
         </div>
       </nav>
