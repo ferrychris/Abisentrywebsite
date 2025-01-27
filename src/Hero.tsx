@@ -8,12 +8,10 @@ export default function Hero() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
         <div>
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900 leading-tight align-center ">
-            At Abisentry Academy
+            Connecting Knowledge 
             <br />
-            we connect knowledge with            <span></span>
+            knowledge with           
             <span className="text-blue-600">real-world application</span>
-        
-            
             <br />
             in the ever-evolving world of cybersecurity and Ai
           </h1>
