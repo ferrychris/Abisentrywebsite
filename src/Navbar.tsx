@@ -15,6 +15,9 @@ export default function Navbar(){
               <Link to ="/" className="text-blue-600 font-medium">
                 Home
               </Link>
+                 <Link to ="/" className="text-blue-600 font-medium">
+               Advanced Ai Driven Cybersecurity Solutions
+              </Link>
               <Link to ="features" className="text-gray-500 hover:text-gray-900">
                 Features
               </Link>
