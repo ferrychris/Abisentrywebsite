@@ -23,14 +23,14 @@ const Testimonial = () => {
                 "The ethical hacking course was incredibly comprehensive. I landed a job as a security analyst right after completion!"
               </p>
               <div className="mt-6 flex items-center">
-                <img
+{/*                 <img
                   src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&q=80"
                   alt="Student"
                   className="w-12 h-12 rounded-full object-cover"
-                />
+                /> */}
                 <div className="ml-4">
-                  <h4 className="font-semibold text-gray-900">Alex Thompson</h4>
-                  <p className="text-gray-500 text-sm">Security Analyst at TechCorp</p>
+                  <h4 className="font-semibold text-gray-900">Adetola Mojoyin</h4>
+                  <p className="text-gray-500 text-sm">Security Analyst</p>
                 </div>
               </div>
             </div>
@@ -48,13 +48,9 @@ const Testimonial = () => {
                 "The practical labs and hands-on experience were invaluable. I feel confident handling real-world security challenges."
               </p>
               <div className="mt-6 flex items-center">
-                <img
-                  src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80"
-                  alt="Student"
-                  className="w-12 h-12 rounded-full object-cover"
-                />
+               
                 <div className="ml-4">
-                  <h4 className="font-semibold text-gray-900">Sarah Chen</h4>
+                  <h4 className="font-semibold text-gray-900">Anu Oluwabori</h4>
                   <p className="text-gray-500 text-sm">Cybersecurity Engineer</p>
                 </div>
               </div>
@@ -73,13 +69,13 @@ const Testimonial = () => {
                 "The instructors are industry experts who bring real-world experience to the classroom. Best investment in my career!"
               </p>
               <div className="mt-6 flex items-center">
-                <img
+{/*                 <img
                   src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&q=80"
                   alt="Student"
                   className="w-12 h-12 rounded-full object-cover"
-                />
+                /> */}
                 <div className="ml-4">
-                  <h4 className="font-semibold text-gray-900">Michael Rodriguez</h4>
+                  <h4 className="font-semibold text-gray-900">Rodiah Ayomide </h4>
                   <p className="text-gray-500 text-sm">Penetration Tester</p>
                 </div>
               </div>
